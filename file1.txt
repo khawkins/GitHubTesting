@@ -1,1 +1,2 @@
 Here's some awesome text.
+Let's stage new text for a pull request.
