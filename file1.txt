@@ -4,3 +4,4 @@ Changing to test git tags and describes.
 Let's make another change for describe.
 One more change.  What does describe look like for two more commits?
 Let's trigger a build, shall we?
+Let's see what git describe looks like from a Jenkins build workspace.
