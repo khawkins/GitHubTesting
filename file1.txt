@@ -7,3 +7,4 @@ Let's trigger a build, shall we?
 Let's see what git describe looks like from a Jenkins build workspace.
 Will this change kick the Jenkins workspace back into alignment?
 Here's another attempt to kick the tags.
+I think I've kicked Jenkins's tagging!
